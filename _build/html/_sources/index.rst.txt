@@ -10,9 +10,8 @@ Contens:
 
 .. toctree::
    :maxdepth: 1
-   :caption: Questionamentos Comuns:
-
-   _perguntascecad/oquee
+   :caption: Questionamentos Comuns
+      _perguntascecad/oquee
 
 
 
