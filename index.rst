@@ -1,0 +1,17 @@
+.. sphinxx documentation master file, created by
+   sphinx-quickstart on Fri Sep 20 10:00:23 2019.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+
+===================================
+
+Contens:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Questionamentos Comuns:
+      _perguntascecad/oquee
+
+
+
