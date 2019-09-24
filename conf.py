@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'sphinxx'
+project = u'CECAD'
 copyright = u'2019, felipe.borba'
 author = u'felipe.borba'
 
@@ -150,7 +150,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'sphinxx', u'sphinxx Documentation',
+    (master_doc, 'CECAD', u'sphinxx Documentation',
      [author], 1)
 ]
 
