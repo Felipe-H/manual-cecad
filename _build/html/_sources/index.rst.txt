@@ -3,15 +3,30 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-
-===================================
-
 Contens:
 
 .. toctree::
    :maxdepth: 1
    :caption: Questionamentos Comuns
-      perguntascecad/oqueh
+
+   _perguntascecad/oqueh
+   _perguntascecad/painel
+   _perguntascecad/menucecad
+   _perguntascecad/tabelas
+   _perguntascecad/detalhandofunc
+   _perguntascecad/seriehist
+   _perguntascecad/cadastroun
+   _perguntascecad/bolsafamilia
+   _perguntascecad/igdm
+   _perguntascecad/beneficiopres
+   _perguntascecad/frequencia
+   _perguntascecad/comparacao
+   _perguntascecad/crascreas
+   _perguntascecad/entrevistador
+   _perguntascecad/buscar
+   _perguntascecad/baixar
+
+
 
 
 
