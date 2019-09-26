@@ -56,6 +56,13 @@ Se você selecionar a opção 'Frequência', vão aparecer as seguintes opções
 
 .. image:: img22cecad.png
 
+Ao fazer a busca por uma informação na funcionalidade Frequência, o Cecad
+disponibiliza um menu com todas as opções de variáveis individuais, de
+modo que você poderá acessar uma nova informação sem precisar clicar no
+botão retornar:
+
+.. image:: img41cecad.png
+
 
 
 
