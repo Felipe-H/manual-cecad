@@ -5,7 +5,7 @@ Comparação
 Se você selecionar a opção **‘Comparação’**, você encontrará as mesmas
 variáveis da opção ‘Frequência’, tanto para dados de família quanto para
 dados de pessoa. Mas nessa funcionalidade, você poderá comparar os
- dados do seu município com os dados dos outros municípios do seu estado.
+dados do seu município com os dados dos outros municípios do seu estado.
 
 Caso seu município seja pequeno, talvez seja interessante retirar os maiores
 municípios do seu estado da comparação, assim você compara o seu
