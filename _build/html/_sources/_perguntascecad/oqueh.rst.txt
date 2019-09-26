@@ -1,6 +1,6 @@
 
 ======
-O que é o CECAD
+O que é o CECAD ?
 ======
 **O Cecad** - Consulta, Seleção e Extração de Informações do Cadastro Único é uma ferramenta que permite conhecer as características socioeconômicas
 das famílias e pessoas incluídas no Cadastro Único (domicílio, faixa etária,

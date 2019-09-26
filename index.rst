@@ -3,11 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Contens:
-
 .. toctree::
    :maxdepth: 1
-   :caption: Questionamentos Comuns
+   :caption: Tópicos
 
    _perguntascecad/oqueh
    _perguntascecad/painel
